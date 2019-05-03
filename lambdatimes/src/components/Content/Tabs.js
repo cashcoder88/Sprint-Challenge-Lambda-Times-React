@@ -16,7 +16,7 @@ const Tabs = props => {
 
 
  Tabs.propTypes = {
-    tabs: PropTypes.arrayOf(PropTypes.strings)
+    tabs: PropTypes.arrayOf(PropTypes.string)
  }
 
 
